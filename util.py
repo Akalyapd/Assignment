@@ -5,5 +5,7 @@ elif cgpa > 8:
     print("Very Good")
 elif cgpa > 7:
     print("Good")
-else:
+elif cgpa > 4:
     print("Average")
+else:
+    print("Poor")
